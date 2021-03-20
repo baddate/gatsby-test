@@ -63,6 +63,7 @@ export default class ContactForm extends Component {
 
     return (
       <form className={style.form}
+        name="contact"
         data-netlify="true"
         data-netlify-honeypot="bot-field"
         onSubmit={this.handleSubmit}
