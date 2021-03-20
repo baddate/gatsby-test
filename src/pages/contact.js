@@ -134,6 +134,7 @@ const ContactPage = () => {
         <Wrap>
           <Social
             twitter='https://twitter.com/realAlexHans'
+            email='mailto:alexdemail@e.email'
             github='https://github.com/baddate'
           />
         </Wrap>
