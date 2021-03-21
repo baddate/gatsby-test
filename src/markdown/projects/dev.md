@@ -2,7 +2,7 @@
     category: Dev Mode
     color: 'black'
     date: 
-    text: Working on iOS / Android APP
+    text: Working on backend development
     link: 
     linkinfo: 'Check it out'
 ---

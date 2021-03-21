@@ -38,11 +38,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `YOUR_GOOGLE_ANALYTICS_TRACKING_ID`,
+        trackingId: `G-291E5KVL0F`,
         // Puts tracking script in the head instead of the body
-        head: false,
+        head: true,
         // Enables Google Optimize using your container Id
-        optimizeId: `YOUR_GOOGLE_OPTIMIZE_TRACKING_ID`
+        optimizeId: `G-291E5KVL0F`
       }
     },
     `gatsby-plugin-sharp`,

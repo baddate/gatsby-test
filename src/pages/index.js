@@ -106,15 +106,15 @@ const Index = () => {
       <CardWrapp>
         <Card
           title='Tech'
-          body='Can contain bunch of buzzwords  lul'
+          body='free your idea & create nothing but everything.'
         />
         <Card
           title='Lifestyle'
-          body='coding, collaboration, innovation, funny moments, projects, chillin - hanging out.'
+          body='coding, reading, skating, side projects.'
         />
         <Card
           title='Spare time'
-          body='coding, documentary movies, music, movies, etc.'
+          body='coding, games, music, movies, etc.'
         />
       </CardWrapp>
       <CubWrapp>
