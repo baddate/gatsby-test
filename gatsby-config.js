@@ -40,9 +40,9 @@ module.exports = {
       options: {
         trackingId: `G-291E5KVL0F`,
         // Puts tracking script in the head instead of the body
-        head: true,
+        head: false,
         // Enables Google Optimize using your container Id
-        optimizeId: `G-291E5KVL0F`
+        optimizeId: `YOUR_GOOGLE_OPTIMIZE_TRACKING_ID`
       }
     },
     `gatsby-plugin-sharp`,
